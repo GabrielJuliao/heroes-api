@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "aws_access_key_id",
+      "type": "java.lang.String",
+      "description": "Description for aws_access_key_id."
+    },
+    {
+      "name": "aws_secret_access_key",
+      "type": "java.lang.String",
+      "description": "Description for aws_secret_access_key."
+    },
+    {
+      "name": "amazon.dynamodb.endpoint",
+      "type": "java.lang.String",
+      "description": "Description for amazon.dynamodb.endpoint."
+    }
+  ] }
